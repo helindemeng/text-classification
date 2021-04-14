@@ -3,7 +3,7 @@
 
 IMDB datasets： http://ai.stanford.edu/~amaas/data/sentiment/
 
-Train model： **0.85648**
+Train model： **LSTM**
 
 Test datasets accuracy：**0.85648**
 
